@@ -1,1 +1,1 @@
-# proc-world-gen
+# Procedural Terrain and Biome Generation
